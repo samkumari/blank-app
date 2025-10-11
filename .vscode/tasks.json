@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start Streamlit (venv)",
+      "type": "shell",
+      "command": "bash ./start_streamlit.sh",
+      "group": {"kind": "build", "isDefault": true},
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      }
+    }
+  ]
+}

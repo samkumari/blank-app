@@ -1,1 +1,11 @@
-streamlit
+streamlit>=1.25
+spacy>=3.5
+transformers>=4.30
+sentence-transformers>=2.2
+scikit-learn>=1.2
+PyPDF2>=3.0
+python-docx>=0.8
+pandas>=2.0
+numpy>=1.24
+tqdm>=4.65
+regex>=2023.6
