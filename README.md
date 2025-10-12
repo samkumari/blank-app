@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Automated Resume Shortlisting
 Automated Resume Shortlisting System
 
 This is a Streamlit application that performs automated resume shortlisting by comparing resumes to a job description using NLP and semantic similarity.
